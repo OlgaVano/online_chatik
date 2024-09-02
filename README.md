@@ -1,5 +1,5 @@
 # online_chatik
-Онлайн-чат на основе Python 3.8, websockets, django, chanells.
+Онлайн-чат на основе Python 3.8, websockets, django, channels.
 
 Channels расширяют возможности Django  и позволяют ему работать с WebSockets, 
 построен на поддержке ASGI.
